@@ -1,0 +1,14 @@
+C:\Users\FA506QM\Desktop\Task_MinNumb\MinNumbOfArray\bin\Debug\netcoreapp3.1\MinNumbOfArray.exe
+C:\Users\FA506QM\Desktop\Task_MinNumb\MinNumbOfArray\bin\Debug\netcoreapp3.1\MinNumbOfArray.deps.json
+C:\Users\FA506QM\Desktop\Task_MinNumb\MinNumbOfArray\bin\Debug\netcoreapp3.1\MinNumbOfArray.runtimeconfig.json
+C:\Users\FA506QM\Desktop\Task_MinNumb\MinNumbOfArray\bin\Debug\netcoreapp3.1\MinNumbOfArray.runtimeconfig.dev.json
+C:\Users\FA506QM\Desktop\Task_MinNumb\MinNumbOfArray\bin\Debug\netcoreapp3.1\MinNumbOfArray.dll
+C:\Users\FA506QM\Desktop\Task_MinNumb\MinNumbOfArray\bin\Debug\netcoreapp3.1\MinNumbOfArray.pdb
+C:\Users\FA506QM\Desktop\Task_MinNumb\MinNumbOfArray\obj\Debug\netcoreapp3.1\MinNumbOfArray.csproj.AssemblyReference.cache
+C:\Users\FA506QM\Desktop\Task_MinNumb\MinNumbOfArray\obj\Debug\netcoreapp3.1\MinNumbOfArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FA506QM\Desktop\Task_MinNumb\MinNumbOfArray\obj\Debug\netcoreapp3.1\MinNumbOfArray.AssemblyInfoInputs.cache
+C:\Users\FA506QM\Desktop\Task_MinNumb\MinNumbOfArray\obj\Debug\netcoreapp3.1\MinNumbOfArray.AssemblyInfo.cs
+C:\Users\FA506QM\Desktop\Task_MinNumb\MinNumbOfArray\obj\Debug\netcoreapp3.1\MinNumbOfArray.csproj.CoreCompileInputs.cache
+C:\Users\FA506QM\Desktop\Task_MinNumb\MinNumbOfArray\obj\Debug\netcoreapp3.1\MinNumbOfArray.dll
+C:\Users\FA506QM\Desktop\Task_MinNumb\MinNumbOfArray\obj\Debug\netcoreapp3.1\MinNumbOfArray.pdb
+C:\Users\FA506QM\Desktop\Task_MinNumb\MinNumbOfArray\obj\Debug\netcoreapp3.1\MinNumbOfArray.genruntimeconfig.cache
